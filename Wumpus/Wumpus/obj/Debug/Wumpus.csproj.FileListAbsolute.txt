@@ -1,0 +1,7 @@
+C:\Users\mehme\source\repos\Wumpus\Wumpus\bin\Debug\Wumpus.exe.config
+C:\Users\mehme\source\repos\Wumpus\Wumpus\bin\Debug\Wumpus.exe
+C:\Users\mehme\source\repos\Wumpus\Wumpus\bin\Debug\Wumpus.pdb
+C:\Users\mehme\source\repos\Wumpus\Wumpus\obj\Debug\Wumpus.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\Wumpus\Wumpus\obj\Debug\Wumpus.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Wumpus\Wumpus\obj\Debug\Wumpus.exe
+C:\Users\mehme\source\repos\Wumpus\Wumpus\obj\Debug\Wumpus.pdb

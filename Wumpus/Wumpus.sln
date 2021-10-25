@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wumpus", "Wumpus\Wumpus.csproj", "{6C79B48F-EC17-4F64-B67A-B032A8B17917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C79B48F-EC17-4F64-B67A-B032A8B17917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C79B48F-EC17-4F64-B67A-B032A8B17917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C79B48F-EC17-4F64-B67A-B032A8B17917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C79B48F-EC17-4F64-B67A-B032A8B17917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EEEC25A-40C3-4376-AC16-ECDC8A307771}
+	EndGlobalSection
+EndGlobal
